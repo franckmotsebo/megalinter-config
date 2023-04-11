@@ -2,4 +2,4 @@
   rules:
       # Override default settings
       strict: off  
-      semi: error
+      semi: off
